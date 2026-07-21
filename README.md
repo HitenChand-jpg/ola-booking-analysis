@@ -126,26 +126,6 @@ The dashboard helps answer questions like:
 
 ---
 
-## 📷 Dashboard Preview
-
-### Overall Dashboard
-![Overall Dashboard](Images/Overall.png)
-
-### Vehicle Type Dashboard
-![Vehicle Dashboard](Images/Vehicle_Type.png)
-
-### Revenue Dashboard
-![Revenue Dashboard](Images/Revenue.png)
-
-### Cancellation Dashboard
-![Cancellation Dashboard](Images/Cancellation.png)
-
-### Ratings Dashboard
-![Ratings Dashboard](Images/Ratings.png)
-
-> Replace the image paths above with your actual screenshot locations.
-
----
 
 ## 🎯 Skills Demonstrated
 
