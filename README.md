@@ -156,9 +156,6 @@ Through this project I learned:
 ---
 
 ## 👨‍💻 Author
-**Hiten Chand**
-
-If you found this project useful, feel free to ⭐ the repository.
 
 **Hiten Chand**
 
